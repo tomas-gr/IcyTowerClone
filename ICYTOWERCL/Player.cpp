@@ -17,7 +17,7 @@ void Player::init()
 	deltaSpeed = 0;
 	side = 0;
 
-	cjImg.loadFromFile("..\\Assets\\harold.bmp");
+	cjImg.loadFromFile("./Assets/harold.bmp");
 	cjImg.createMaskFromColor(sf::Color(153, 20, 145, 255));
 	cjTx.loadFromImage(cjImg);
 	cjSp.setTexture(cjTx);
@@ -27,15 +27,15 @@ void Player::init()
 	cjSp.setPosition(internalPosX, internalPosY);
 
 	//maybe make these as enum...
-	soundEdge.loadFromFile("..\\Assets\\Sounds\\edge.ogg");
-	soundJumpLo.loadFromFile("..\\Assets\\Sounds\\jump_lo.ogg");
-	soundJumpMid.loadFromFile("..\\Assets\\Sounds\\jump_mid.ogg");
-	soundJumpHi.loadFromFile("..\\Assets\\Sounds\\jump_hi.ogg");
-	soundWazup.loadFromFile("..\\Assets\\Sounds\\wazup.ogg");
-	soundYo.loadFromFile("..\\Assets\\Sounds\\yo.ogg");
-	soundFalling.loadFromFile("..\\Assets\\Sounds\\falling.ogg");
+	soundEdge.loadFromFile("./Assets/Sounds/edge.ogg");
+	soundJumpLo.loadFromFile("./Assets/Sounds/jump_lo.ogg");
+	soundJumpMid.loadFromFile("./Assets/Sounds/jump_mid.ogg");
+	soundJumpHi.loadFromFile("./Assets/Sounds/jump_hi.ogg");
+	soundWazup.loadFromFile("./Assets/Sounds/wazup.ogg");
+	soundYo.loadFromFile("./Assets/Sounds/yo.ogg");
+	soundFalling.loadFromFile("./Assets/Sounds/falling.ogg");
 
-	soundMilestone.loadFromFile("..\\Assets\\Sounds\\alright.ogg");
+	soundMilestone.loadFromFile("./Assets/Sounds/alright.ogg");
 	cjSoundMilestone.setBuffer(soundMilestone);
 
 	eceCombo.setLayer(curLayer);
@@ -102,7 +102,7 @@ void Player::collide()
 	if (jumpStrenght == 3)
 	{
 		dist = const_dist_between_platforms - 8;	//adjust the collision box due to rotation animation texture being higher by 8 pixels than normal
-													//jump texture...and rotation animation is used only when jumpStrenght == 3
+													//jump texture..and rotation animation is used only when jumpStrenght == 3
 	}
 	else dist = const_dist_between_platforms;
 

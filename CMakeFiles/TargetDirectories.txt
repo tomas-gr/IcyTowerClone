@@ -1,0 +1,3 @@
+/home/tomas/Repositorios/IcyTowerClone/CMakeFiles/IcyTowerClone.dir
+/home/tomas/Repositorios/IcyTowerClone/CMakeFiles/edit_cache.dir
+/home/tomas/Repositorios/IcyTowerClone/CMakeFiles/rebuild_cache.dir

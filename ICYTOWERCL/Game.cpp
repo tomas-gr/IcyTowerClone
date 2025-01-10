@@ -1,7 +1,8 @@
 #include <Game.h>
 
-//basic init
-sf::RenderWindow window(sf::VideoMode(640, 480), "Icy Tower Clone // Written in C++ using SFML - v1.02", sf::Style::Close);
+const auto window_width = sf::VideoMode::getDesktopMode().width;
+const auto window_height = sf::VideoMode::getDesktopMode().height;
+sf::RenderWindow window(sf::VideoMode(window_width,window_height), "Icy Tower Clone // Written in C++ using SFML - v1.02", sf::Style::Close | sf::Style::Fullscreen);
 
 sf::Event event;
 

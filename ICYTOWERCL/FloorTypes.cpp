@@ -1,16 +1,16 @@
 #include <FloorTypes.h>
 
-sf::IntRect FloorTypes::SnowX(0, 0, 25, 37);
-sf::IntRect FloorTypes::SnowY(25, 0, 16, 37);
-sf::IntRect FloorTypes::SnowZ(41, 0, 17, 37);
+sf::IntRect FloorTypes::SnowX(0, 3, 12, 43);
+sf::IntRect FloorTypes::SnowY(12, 3, 48, 43);
+sf::IntRect FloorTypes::SnowZ(60, 3, 10, 43);
 
-sf::IntRect FloorTypes::IceX(0, 38, 25, 37);
-sf::IntRect FloorTypes::IceY(25, 38, 16, 37);
-sf::IntRect FloorTypes::IceZ(41, 38, 17, 37);
+sf::IntRect FloorTypes::IceX(3, 52, 7, 43);
+sf::IntRect FloorTypes::IceY(10, 52, 52, 43);
+sf::IntRect FloorTypes::IceZ(62, 52, 9, 43);
 
-sf::IntRect FloorTypes::WoodX(0, 76, 21, 21);
-sf::IntRect FloorTypes::WoodY(21, 76, 16, 21);
-sf::IntRect FloorTypes::WoodZ(37, 76, 21, 21);
+sf::IntRect FloorTypes::WoodX(3, 107, 27, 30);
+sf::IntRect FloorTypes::WoodY(30, 107, 18, 30);
+sf::IntRect FloorTypes::WoodZ(48, 107, 26, 30);
 
 sf::IntRect FloorTypes::BlueX(4, 98, 17, 12);
 sf::IntRect FloorTypes::BlueY(21, 98, 17, 12);

@@ -120,7 +120,7 @@ void Platform::reset(int flr)
 
 void Platform::init()
 {
-	imgPlatform.loadFromFile("..\\Assets\\floors.bmp");
+	imgPlatform.loadFromFile("./Assets/floors.bmp");
 	imgPlatform.createMaskFromColor(sf::Color(153, 20, 145, 255));
 	txPlatform.loadFromImage(imgPlatform);
 }

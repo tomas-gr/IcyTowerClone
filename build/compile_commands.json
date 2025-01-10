@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Animation.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Animation.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Animation.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Animation.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Background.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Background.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Background.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Background.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Camera.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Camera.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Camera.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Camera.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/DefaultFont.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/DefaultFont.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/DefaultFont.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/DefaultFont.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/EyeCandy.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/EyeCandy.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/EyeCandy.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/EyeCandy.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/EyeCandyEngine.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/EyeCandyEngine.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/EyeCandyEngine.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/EyeCandyEngine.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/FloorTypes.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/FloorTypes.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/FloorTypes.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/FloorTypes.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Game.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Game.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Game.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Game.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/GameOver.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/GameOver.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/GameOver.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/GameOver.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/gcc  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Icon.c.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Icon.c",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Icon.c",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Icon.c.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Layer.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Layer.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Layer.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Layer.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/main.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/main.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/main.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/main.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/PitchedSound.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/PitchedSound.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/PitchedSound.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/PitchedSound.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Platform.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Platform.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Platform.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Platform.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/PlatformEngine.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/PlatformEngine.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/PlatformEngine.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/PlatformEngine.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Player.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Player.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Player.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Player.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/RainbowText.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/RainbowText.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/RainbowText.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/RainbowText.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Score.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Score.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Score.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Score.cpp.o"
+},
+{
+  "directory": "/home/tomas/Repositorios/IcyTowerClone/build",
+  "command": "/usr/bin/g++  -I/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL -I/home/tomas/Repositorios/IcyTowerClone/{YOUR -I/home/tomas/Repositorios/IcyTowerClone/SFML -I/home/tomas/Repositorios/IcyTowerClone/DIRECTORY}/include -g -std=gnu++11 -o CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Timer.cpp.o -c /home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Timer.cpp",
+  "file": "/home/tomas/Repositorios/IcyTowerClone/ICYTOWERCL/Timer.cpp",
+  "output": "CMakeFiles/IcyTowerClone.dir/ICYTOWERCL/Timer.cpp.o"
+}
+]

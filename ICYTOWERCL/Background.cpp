@@ -7,12 +7,12 @@ sf::Sprite spWall;
 
 void Background::init()
 {
-	txBkg.loadFromFile("..\\Assets\\Bkg2.png");
+	txBkg.loadFromFile("./Assets/Bkg2.png");
 	spBkg.setTexture(txBkg);
 	spBkg.setOrigin(txBkg.getSize().x / 2, 64);
 	spBkg.setPosition(320, 0);
 
-	txWall.loadFromFile("..\\Assets\\Wallz3.png");
+	txWall.loadFromFile("./Assets/Wallz3.png");
 	spWall.setTexture(txWall);
 	spWall.setOrigin(0, 128);
 
